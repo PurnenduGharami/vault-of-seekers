@@ -44,6 +44,11 @@ next-env.d.ts
 # firebase
 firebase-debug.log
 firestore-debug.log
+.firebase
+.firestore
+.firebaserc
+firebase.json
+
 
 #hosting
 apphosting.yaml
