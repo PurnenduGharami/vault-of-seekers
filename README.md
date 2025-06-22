@@ -83,11 +83,10 @@ Organize your searches by topic or task. Each query is stored in a selected proj
   <img src="/docs/assets screen shots/result.PNG" alt="result" width="350" style="margin-right: 70px;" />
   <img src="/docs/assets screen shots/active api.PNG" alt="active api list" width="350" />
   <img src="/docs/assets screen shots/API setting.PNG" alt="API setting" width="350" style="margin-right: 70px;" />
-
-  <img src="/docs/assets screen shots/Home PAGE.png" alt="Home page UI" width="750" />
+  
   <img src="/docs/assets screen shots/multi source.PNG" alt="multi source problem" width="350" style="margin-right: 70px;" />
-
-  <img src="/docs/assets screen shots/Capture.PNG" alt="multi source search" width="450" /><br/>
+  <img src="/docs/assets screen shots/Home PAGE.png" alt="Home page UI" width="750" />
+  <img src="/docs/assets screen shots/Capture.PNG" alt="multi source search" width="650" /><br/>
   <img src="/docs/assets screen shots/custom choose.PNG" alt="custom search" width="350" style="margin-right: 70px;" />
   <img src="/docs/assets screen shots/project.PNG" alt="Project setting" width="450" style="margin-right: 70px;" />
 
