@@ -80,14 +80,17 @@ Organize your searches by topic or task. Each query is stored in a selected proj
 
 <p>
   <img src="/docs/assets screen shots/vos.PNG" alt="Home page" width="750" style="margin-right: 70px;" /><br/>
-  <img src="/docs/assets screen shots/result.PNG" alt="result" width="250" style="margin-right: 70px;" />
-  <img src="/docs/assets screen shots/active api.PNG" alt="active api list" width="750" />
-  <img src="/docs/assets screen shots/API setting.PNG" alt="API setting" width="250" style="margin-right: 70px;" />
-  <img src="/docs/assets screen shots/custom choose.PNG" alt="custom search" width="250" style="margin-right: 70px;" />
-  <img src="/docs/assets screen shots/Home PAGE.png" alt="Home page UI" width="250" />
-  <img src="/docs/assets screen shots/multi source.PNG" alt="multi source problem" width="250" style="margin-right: 70px;" />
-  <img src="/docs/assets screen shots/project.PNG" alt="Project setting" width="250" style="margin-right: 70px;" />
-  <img src="/docs/assets screen shots/Capture.PNG" alt="multi source search" width="250" />
+  <img src="/docs/assets screen shots/result.PNG" alt="result" width="450" style="margin-right: 70px;" />
+  <img src="/docs/assets screen shots/active api.PNG" alt="active api list" width="450" />
+  <img src="/docs/assets screen shots/API setting.PNG" alt="API setting" width="450" style="margin-right: 70px;" />
+
+  <img src="/docs/assets screen shots/Home PAGE.png" alt="Home page UI" width="750" />
+  <img src="/docs/assets screen shots/multi source.PNG" alt="multi source problem" width="450" style="margin-right: 70px;" />
+
+  <img src="/docs/assets screen shots/Capture.PNG" alt="multi source search" width="450" />
+  <img src="/docs/assets screen shots/custom choose.PNG" alt="custom search" width="350" style="margin-right: 70px;" />
+  <img src="/docs/assets screen shots/project.PNG" alt="Project setting" width="450" style="margin-right: 70px;" />
+
 </p>
 
 
