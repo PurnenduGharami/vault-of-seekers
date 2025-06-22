@@ -78,7 +78,18 @@ Organize your searches by topic or task. Each query is stored in a selected proj
 
 ## Demo / Screenshots
 
-> _(Add screenshots or video demos here showing home, search modes, history, and profile setup.)_
+<p>
+  <img src="/docs/assets screen shots/vos.PNG" alt="Home page" width="150" style="margin-right: 20px;" />
+  <img src="/docs/assets screen shots/result.PNG" alt="result" width="150" style="margin-right: 20px;" />
+  <img src="/docs/assets screen shots/active api.PNG" alt="active api list" width="150" />
+  <img src="/docs/assets screen shots/API setting.PNG" alt="API setting" width="150" style="margin-right: 20px;" />
+  <img src="/docs/assets screen shots/custom choose.PNG" alt="custom search" width="150" style="margin-right: 20px;" />
+  <img src="/docs/assets screen shots/Home PAGE.png" alt="Home page UI" width="150" />
+  <img src="/docs/assets screen shots/multi source.PNG" alt="multi source problem" width="150" style="margin-right: 20px;" />
+  <img src="/docs/assets screen shots/project.PNG" alt="Project setting" width="150" style="margin-right: 20px;" />
+  <img src="/docs/assets screen shots/Capture.PNG" alt="multi source search" width="150" />
+</p>
+
 
 ---
 
@@ -131,9 +142,21 @@ Instead, go to the **Profile Page** in the app after launch and enter your API k
 
 ---
 
-## Project Structure
+## 📁 Project Structure (Overview)
 
-> _(Insert a diagram or screenshot of the folder/file layout here.)_
+```bash
+├── src/
+│   ├── app/           # Next.js App Router pages
+│   ├── components/    # Reusable UI & custom components
+│   ├── hooks/         # Custom React hooks
+│   └── lib/           # Firebase and utilities
+├── public/            # Static files
+├── docs/              # Internal docs (blueprints, structure, architecture)
+├── .env               # Environment variables
+├── next.config.ts     # Next.js config
+└── tailwind.config.ts # Tailwind CSS config
+
+👉 For the full file tree, [see-the-detailed-tructure](https://your-portfolio-link.com)
 
 ---
 
