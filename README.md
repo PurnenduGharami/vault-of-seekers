@@ -159,7 +159,7 @@ Instead, go to the **Profile Page** in the app after launch and enter your API k
 └── tailwind.config.ts # Tailwind CSS config
 ```
 
-👉 For the full file tree, [See The Detailed Structure](https://your-portfolio-link.com)
+👉 For the full file tree, <a href="[https://your-portfolio-link.com](https://github.com/PurnenduGharami/vault-of-seekers/blob/main/docs/structure.txt)" target="_blank" rel="noopener noreferrer">See The Detailed Structure</a>
 
 ---
 
