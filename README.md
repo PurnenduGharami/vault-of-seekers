@@ -5,6 +5,14 @@ VOS is an open-source AI research assistant that unifies access to multiple AI A
 
 ---
 
+## 🛑 Urgent Help Needed
+I recently received my provisional letter from my dream university abroad.
+I’m from Bangladesh, and this opportunity means everything to me.
+My family had saved enough, but my father lost most of it in a financial scam.
+Now, I’m making one last attempt to raise funds online. Since most fundraising sites don’t work here, I’m using Patreon.
+
+
+---
 ## Table of Contents
 
 - [About](#about)
