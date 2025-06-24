@@ -3,6 +3,7 @@
 **“All Paths. One Vault.”**  
 VOS is an open-source AI research assistant that unifies access to multiple AI APIs in a single, searchable interface. Rather than relying on one provider — each with their own strengths, weaknesses, and biases — VOS allows you to compare, analyze, and organize results from multiple AI models side by side.
 
+Demo Link: https://vos-zero.web.app/
 ---
 
 ## 🛑 Urgent Help Needed
